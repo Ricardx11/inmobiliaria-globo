@@ -119,6 +119,24 @@ h2 {
   opacity: 1;
 }
 
+.contenedor1 {
+  margin: 3rem 5rem;
+  display: flex;
+  gap: 3rem;
+  justify-content: center;
+}
+
+.tamaño {
+  width: 350px;
+  border-radius: 3%;
+}
+
+.text {
+  margin-top: 10px;
+  font-size: 14px;
+  text-align: center;
+}
+
 .contenedorfuturo {
   margin: 0 2rem;
   padding: 2rem;
